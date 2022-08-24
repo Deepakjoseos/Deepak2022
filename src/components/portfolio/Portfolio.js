@@ -19,13 +19,14 @@ const Portfolio = () => {
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target="_blank">
+            <a href="https://github.com/" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
             <a
               href="https://dribbble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>
@@ -37,13 +38,14 @@ const Portfolio = () => {
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target="_blank">
+            <a href="https://github.com/" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
             <a
               href="https://dribbble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>
@@ -55,13 +57,14 @@ const Portfolio = () => {
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target="_blank">
+            <a href="https://github.com/" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
             <a
               href="https://dribbble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>
@@ -73,13 +76,14 @@ const Portfolio = () => {
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target="_blank">
+            <a href="https://github.com/" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
             <a
               href="https://dribbble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>
@@ -91,13 +95,14 @@ const Portfolio = () => {
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target="_blank">
+            <a href="https://github.com/" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
             <a
               href="https://dribbble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>
@@ -109,13 +114,14 @@ const Portfolio = () => {
           </div>
           <h3>This is a Portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/" className="btn" target="_blank">
+            <a href="https://github.com/" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
             <a
               href="https://dribbble.com/Alien_pixels"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>

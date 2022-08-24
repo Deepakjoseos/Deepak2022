@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <h5>Hello I'm</h5>
+        <h5>Hello I'm</h5>       
         <Typed
           className="Text__type"
           strings={["Deepak Jose", "A Developer", "A Designer", "A Freelancer"]}
